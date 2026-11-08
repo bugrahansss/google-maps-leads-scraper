@@ -1,0 +1,77 @@
+{
+ "place_info": {
+  "title": "Example Coffee 1"
+ },
+ "topics": [
+  {
+   "keyword": "latte",
+   "mentions": 12,
+   "id": "abc"
+  }
+ ],
+ "reviews": [
+  {
+   "position": 1,
+   "link": "https://example.com/r",
+   "review_id": "r1",
+   "rating": 4,
+   "date": "a week ago",
+   "iso_date": "2026-11-01T10:00:00Z",
+   "snippet": "Jane Doe review 1",
+   "extracted_snippet": {
+    "original": "Original text 1"
+   },
+   "likes": 1,
+   "user": {
+    "name": "Jane Doe",
+    "reviews": 12,
+    "local_guide": true
+   },
+   "response": {
+    "date": "5 days ago",
+    "snippet": "Thanks, Jane!"
+   }
+  },
+  {
+   "position": 2,
+   "link": "https://example.com/r",
+   "review_id": "r2",
+   "rating": 5,
+   "date": "a week ago",
+   "iso_date": "2026-11-01T10:00:00Z",
+   "snippet": "",
+   "extracted_snippet": {
+    "original": "Original text 2"
+   },
+   "likes": 2,
+   "user": {
+    "name": "Jane Doe",
+    "reviews": 12,
+    "local_guide": false
+   },
+   "response": null
+  },
+  {
+   "position": 3,
+   "link": "https://example.com/r",
+   "review_id": "r3",
+   "rating": 4,
+   "date": "a week ago",
+   "iso_date": "2026-11-01T10:00:00Z",
+   "snippet": "Jane Doe review 3",
+   "extracted_snippet": {
+    "original": "Original text 3"
+   },
+   "likes": 3,
+   "user": {
+    "name": "Jane Doe",
+    "reviews": 12,
+    "local_guide": false
+   },
+   "response": null
+  }
+ ],
+ "pagination": {
+  "next_page_token": "TOKEN2"
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "reviews": [
+  {
+   "review_id": "r3",
+   "rating": 4
+  },
+  {
+   "review_id": "r4",
+   "rating": 3,
+   "snippet": "Fine",
+   "user": {
+    "name": "John Roe"
+   }
+  }
+ ],
+ "pagination": {}
+}

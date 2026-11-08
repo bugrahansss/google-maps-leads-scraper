@@ -1,0 +1,57 @@
+{
+ "search_metadata": {},
+ "place_results": {
+  "position": 1,
+  "title": "Example Coffee 1",
+  "place_id": "ChIJexample0001",
+  "data_id": "0x0:0x0001",
+  "data_cid": "1001",
+  "gps_coordinates": {
+   "latitude": 30.271,
+   "longitude": -97.741
+  },
+  "rating": 4.5,
+  "reviews": 101,
+  "type": "Coffee shop",
+  "types": [
+   "Coffee shop",
+   "Cafe"
+  ],
+  "address": "101 Example St, Austin, TX 78701",
+  "open_state": "Open \u00b7 Closes 7\u202fPM",
+  "hours": [
+   {
+    "sunday": "7 AM\u20137 PM"
+   },
+   {
+    "monday": "7 AM\u20132 PM"
+   }
+  ],
+  "phone": "(512) 555-0001",
+  "website": "https://cafe1.example.com/",
+  "extensions": [
+   {
+    "accessibility": [
+     "Wheelchair accessible entrance"
+    ]
+   }
+  ],
+  "thumbnail": "https://example.com/t.jpg",
+  "plus_code": "77FH+PW Austin, Texas",
+  "rating_summary": [
+   {
+    "stars": 1,
+    "amount": 2
+   },
+   {
+    "stars": 5,
+    "amount": 90
+   }
+  ],
+  "summary": [
+   {
+    "snippet": "\"Great coffee\""
+   }
+  ]
+ }
+}

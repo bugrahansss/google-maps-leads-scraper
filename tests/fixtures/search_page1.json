@@ -1,0 +1,710 @@
+{
+ "search_metadata": {
+  "google_maps_url": "https://www.google.com/maps/search/coffee"
+ },
+ "search_parameters": {
+  "q": "coffee shop"
+ },
+ "local_results": [
+  {
+   "position": 1,
+   "title": "Example Coffee 1",
+   "place_id": "ChIJexample0001",
+   "data_id": "0x0:0x0001",
+   "data_cid": "1001",
+   "gps_coordinates": {
+    "latitude": 30.271,
+    "longitude": -97.741
+   },
+   "rating": 4.5,
+   "reviews": 101,
+   "type": "Coffee shop",
+   "types": [
+    "Coffee shop",
+    "Cafe"
+   ],
+   "address": "101 Example St, Austin, TX 78701",
+   "open_state": "Open \u00b7 Closes 7\u202fPM",
+   "hours": "Open \u00b7 Closes 7\u202fPM",
+   "operating_hours": {
+    "monday": "7\u202fAM\u20132\u202fPM",
+    "tuesday": "Closed"
+   },
+   "phone": "(512) 555-0001",
+   "website": "https://cafe1.example.com/",
+   "extensions": [
+    {
+     "accessibility": [
+      "Wheelchair accessible entrance"
+     ]
+    }
+   ],
+   "thumbnail": "https://example.com/t.jpg"
+  },
+  {
+   "position": 2,
+   "title": "Example Coffee 2",
+   "place_id": "ChIJexample0002",
+   "data_id": "0x0:0x0002",
+   "data_cid": "1002",
+   "gps_coordinates": {
+    "latitude": 30.272,
+    "longitude": -97.74199999999999
+   },
+   "rating": 4.5,
+   "reviews": 102,
+   "type": "Coffee shop",
+   "types": [
+    "Coffee shop",
+    "Cafe"
+   ],
+   "address": "102 Example St, Austin, TX 78701",
+   "open_state": "Open \u00b7 Closes 7\u202fPM",
+   "hours": "Open \u00b7 Closes 7\u202fPM",
+   "operating_hours": {
+    "monday": "7\u202fAM\u20132\u202fPM",
+    "tuesday": "Closed"
+   },
+   "phone": "(512) 555-0002",
+   "website": "https://cafe2.example.com/",
+   "extensions": [
+    {
+     "accessibility": [
+      "Wheelchair accessible entrance"
+     ]
+    }
+   ],
+   "thumbnail": "https://example.com/t.jpg"
+  },
+  {
+   "position": 3,
+   "title": "Example Coffee 3",
+   "place_id": "ChIJexample0003",
+   "data_id": "0x0:0x0003",
+   "data_cid": "1003",
+   "gps_coordinates": {
+    "latitude": 30.273,
+    "longitude": -97.743
+   },
+   "rating": 4.5,
+   "reviews": 103,
+   "type": "Coffee shop",
+   "types": [
+    "Coffee shop",
+    "Cafe"
+   ],
+   "address": "103 Example St, Austin, TX 78701",
+   "open_state": "Open \u00b7 Closes 7\u202fPM",
+   "hours": "Open \u00b7 Closes 7\u202fPM",
+   "operating_hours": {
+    "monday": "7\u202fAM\u20132\u202fPM",
+    "tuesday": "Closed"
+   },
+   "phone": "(512) 555-0003",
+   "website": "https://cafe3.example.com/",
+   "extensions": [
+    {
+     "accessibility": [
+      "Wheelchair accessible entrance"
+     ]
+    }
+   ],
+   "thumbnail": "https://example.com/t.jpg"
+  },
+  {
+   "position": 4,
+   "title": "Example Coffee 4",
+   "place_id": "ChIJexample0004",
+   "data_id": "0x0:0x0004",
+   "data_cid": "1004",
+   "gps_coordinates": {
+    "latitude": 30.274,
+    "longitude": -97.744
+   },
+   "rating": 4.5,
+   "reviews": 104,
+   "type": "Coffee shop",
+   "types": [
+    "Coffee shop",
+    "Cafe"
+   ],
+   "address": "104 Example St, Austin, TX 78701",
+   "open_state": "Open \u00b7 Closes 7\u202fPM",
+   "hours": "Open \u00b7 Closes 7\u202fPM",
+   "operating_hours": {
+    "monday": "7\u202fAM\u20132\u202fPM",
+    "tuesday": "Closed"
+   },
+   "phone": "(512) 555-0004",
+   "website": "https://cafe4.example.com/",
+   "extensions": [
+    {
+     "accessibility": [
+      "Wheelchair accessible entrance"
+     ]
+    }
+   ],
+   "thumbnail": "https://example.com/t.jpg"
+  },
+  {
+   "position": 5,
+   "title": "Example Coffee 5",
+   "place_id": "ChIJexample0005",
+   "data_id": "0x0:0x0005",
+   "data_cid": "1005",
+   "gps_coordinates": {
+    "latitude": 30.275,
+    "longitude": -97.74499999999999
+   },
+   "rating": 4.5,
+   "reviews": 105,
+   "type": "Coffee shop",
+   "types": [
+    "Coffee shop",
+    "Cafe"
+   ],
+   "address": "105 Example St, Austin, TX 78701",
+   "open_state": "Open \u00b7 Closes 7\u202fPM",
+   "hours": "Open \u00b7 Closes 7\u202fPM",
+   "operating_hours": {
+    "monday": "7\u202fAM\u20132\u202fPM",
+    "tuesday": "Closed"
+   },
+   "phone": "(512) 555-0005",
+   "website": "https://cafe5.example.com/",
+   "extensions": [
+    {
+     "accessibility": [
+      "Wheelchair accessible entrance"
+     ]
+    }
+   ],
+   "thumbnail": "https://example.com/t.jpg"
+  },
+  {
+   "position": 6,
+   "title": "Example Coffee 6",
+   "place_id": "ChIJexample0006",
+   "data_id": "0x0:0x0006",
+   "data_cid": "1006",
+   "gps_coordinates": {
+    "latitude": 30.276,
+    "longitude": -97.746
+   },
+   "rating": 4.5,
+   "reviews": 106,
+   "type": "Coffee shop",
+   "types": [
+    "Coffee shop",
+    "Cafe"
+   ],
+   "address": "106 Example St, Austin, TX 78701",
+   "open_state": "Open \u00b7 Closes 7\u202fPM",
+   "hours": "Open \u00b7 Closes 7\u202fPM",
+   "operating_hours": {
+    "monday": "7\u202fAM\u20132\u202fPM",
+    "tuesday": "Closed"
+   },
+   "phone": "(512) 555-0006",
+   "website": "https://cafe6.example.com/",
+   "extensions": [
+    {
+     "accessibility": [
+      "Wheelchair accessible entrance"
+     ]
+    }
+   ],
+   "thumbnail": "https://example.com/t.jpg"
+  },
+  {
+   "position": 7,
+   "title": "Example Coffee 7",
+   "place_id": "ChIJexample0007",
+   "data_id": "0x0:0x0007",
+   "data_cid": "1007",
+   "gps_coordinates": {
+    "latitude": 30.277,
+    "longitude": -97.747
+   },
+   "rating": 4.5,
+   "reviews": 107,
+   "type": "Coffee shop",
+   "types": [
+    "Coffee shop",
+    "Cafe"
+   ],
+   "address": "107 Example St, Austin, TX 78701",
+   "open_state": "Open \u00b7 Closes 7\u202fPM",
+   "hours": "Open \u00b7 Closes 7\u202fPM",
+   "operating_hours": {
+    "monday": "7\u202fAM\u20132\u202fPM",
+    "tuesday": "Closed"
+   },
+   "phone": "(512) 555-0007",
+   "website": "https://cafe7.example.com/",
+   "extensions": [
+    {
+     "accessibility": [
+      "Wheelchair accessible entrance"
+     ]
+    }
+   ],
+   "thumbnail": "https://example.com/t.jpg"
+  },
+  {
+   "position": 8,
+   "title": "Example Coffee 8",
+   "place_id": "ChIJexample0008",
+   "data_id": "0x0:0x0008",
+   "data_cid": "1008",
+   "gps_coordinates": {
+    "latitude": 30.278,
+    "longitude": -97.74799999999999
+   },
+   "rating": 4.5,
+   "reviews": 108,
+   "type": "Coffee shop",
+   "types": [
+    "Coffee shop",
+    "Cafe"
+   ],
+   "address": "108 Example St, Austin, TX 78701",
+   "open_state": "Open \u00b7 Closes 7\u202fPM",
+   "hours": "Open \u00b7 Closes 7\u202fPM",
+   "operating_hours": {
+    "monday": "7\u202fAM\u20132\u202fPM",
+    "tuesday": "Closed"
+   },
+   "phone": "(512) 555-0008",
+   "website": "https://cafe8.example.com/",
+   "extensions": [
+    {
+     "accessibility": [
+      "Wheelchair accessible entrance"
+     ]
+    }
+   ],
+   "thumbnail": "https://example.com/t.jpg"
+  },
+  {
+   "position": 9,
+   "title": "Example Coffee 9",
+   "place_id": "ChIJexample0009",
+   "data_id": "0x0:0x0009",
+   "data_cid": "1009",
+   "gps_coordinates": {
+    "latitude": 30.279,
+    "longitude": -97.749
+   },
+   "rating": 4.5,
+   "reviews": 109,
+   "type": "Coffee shop",
+   "types": [
+    "Coffee shop",
+    "Cafe"
+   ],
+   "address": "109 Example St, Austin, TX 78701",
+   "open_state": "Open \u00b7 Closes 7\u202fPM",
+   "hours": "Open \u00b7 Closes 7\u202fPM",
+   "operating_hours": {
+    "monday": "7\u202fAM\u20132\u202fPM",
+    "tuesday": "Closed"
+   },
+   "phone": "(512) 555-0009",
+   "website": "https://cafe9.example.com/",
+   "extensions": [
+    {
+     "accessibility": [
+      "Wheelchair accessible entrance"
+     ]
+    }
+   ],
+   "thumbnail": "https://example.com/t.jpg"
+  },
+  {
+   "position": 10,
+   "title": "Example Coffee 10",
+   "place_id": "ChIJexample0010",
+   "data_id": "0x0:0x000a",
+   "data_cid": "1010",
+   "gps_coordinates": {
+    "latitude": 30.28,
+    "longitude": -97.75
+   },
+   "rating": 4.5,
+   "reviews": 110,
+   "type": "Coffee shop",
+   "types": [
+    "Coffee shop",
+    "Cafe"
+   ],
+   "address": "110 Example St, Austin, TX 78701",
+   "open_state": "Open \u00b7 Closes 7\u202fPM",
+   "hours": "Open \u00b7 Closes 7\u202fPM",
+   "operating_hours": {
+    "monday": "7\u202fAM\u20132\u202fPM",
+    "tuesday": "Closed"
+   },
+   "phone": "(512) 555-0010",
+   "website": "https://cafe10.example.com/",
+   "extensions": [
+    {
+     "accessibility": [
+      "Wheelchair accessible entrance"
+     ]
+    }
+   ],
+   "thumbnail": "https://example.com/t.jpg"
+  },
+  {
+   "position": 11,
+   "title": "Example Coffee 11",
+   "place_id": "ChIJexample0011",
+   "data_id": "0x0:0x000b",
+   "data_cid": "1011",
+   "gps_coordinates": {
+    "latitude": 30.281,
+    "longitude": -97.75099999999999
+   },
+   "rating": 4.5,
+   "reviews": 111,
+   "type": "Coffee shop",
+   "types": [
+    "Coffee shop",
+    "Cafe"
+   ],
+   "address": "111 Example St, Austin, TX 78701",
+   "open_state": "Open \u00b7 Closes 7\u202fPM",
+   "hours": "Open \u00b7 Closes 7\u202fPM",
+   "operating_hours": {
+    "monday": "7\u202fAM\u20132\u202fPM",
+    "tuesday": "Closed"
+   },
+   "phone": "(512) 555-0011",
+   "website": "https://cafe11.example.com/",
+   "extensions": [
+    {
+     "accessibility": [
+      "Wheelchair accessible entrance"
+     ]
+    }
+   ],
+   "thumbnail": "https://example.com/t.jpg"
+  },
+  {
+   "position": 12,
+   "title": "Example Coffee 12",
+   "place_id": "ChIJexample0012",
+   "data_id": "0x0:0x000c",
+   "data_cid": "1012",
+   "gps_coordinates": {
+    "latitude": 30.282,
+    "longitude": -97.752
+   },
+   "rating": 4.5,
+   "reviews": 112,
+   "type": "Coffee shop",
+   "types": [
+    "Coffee shop",
+    "Cafe"
+   ],
+   "address": "112 Example St, Austin, TX 78701",
+   "open_state": "Open \u00b7 Closes 7\u202fPM",
+   "hours": "Open \u00b7 Closes 7\u202fPM",
+   "operating_hours": {
+    "monday": "7\u202fAM\u20132\u202fPM",
+    "tuesday": "Closed"
+   },
+   "phone": "(512) 555-0012",
+   "website": "https://cafe12.example.com/",
+   "extensions": [
+    {
+     "accessibility": [
+      "Wheelchair accessible entrance"
+     ]
+    }
+   ],
+   "thumbnail": "https://example.com/t.jpg"
+  },
+  {
+   "position": 13,
+   "title": "Example Coffee 13",
+   "place_id": "ChIJexample0013",
+   "data_id": "0x0:0x000d",
+   "data_cid": "1013",
+   "gps_coordinates": {
+    "latitude": 30.283,
+    "longitude": -97.753
+   },
+   "rating": 4.5,
+   "reviews": 113,
+   "type": "Coffee shop",
+   "types": [
+    "Coffee shop",
+    "Cafe"
+   ],
+   "address": "113 Example St, Austin, TX 78701",
+   "open_state": "Open \u00b7 Closes 7\u202fPM",
+   "hours": "Open \u00b7 Closes 7\u202fPM",
+   "operating_hours": {
+    "monday": "7\u202fAM\u20132\u202fPM",
+    "tuesday": "Closed"
+   },
+   "phone": "(512) 555-0013",
+   "website": "https://cafe13.example.com/",
+   "extensions": [
+    {
+     "accessibility": [
+      "Wheelchair accessible entrance"
+     ]
+    }
+   ],
+   "thumbnail": "https://example.com/t.jpg"
+  },
+  {
+   "position": 14,
+   "title": "Example Coffee 14",
+   "place_id": "ChIJexample0014",
+   "data_id": "0x0:0x000e",
+   "data_cid": "1014",
+   "gps_coordinates": {
+    "latitude": 30.284,
+    "longitude": -97.75399999999999
+   },
+   "rating": 4.5,
+   "reviews": 114,
+   "type": "Coffee shop",
+   "types": [
+    "Coffee shop",
+    "Cafe"
+   ],
+   "address": "114 Example St, Austin, TX 78701",
+   "open_state": "Open \u00b7 Closes 7\u202fPM",
+   "hours": "Open \u00b7 Closes 7\u202fPM",
+   "operating_hours": {
+    "monday": "7\u202fAM\u20132\u202fPM",
+    "tuesday": "Closed"
+   },
+   "phone": "(512) 555-0014",
+   "website": "https://cafe14.example.com/",
+   "extensions": [
+    {
+     "accessibility": [
+      "Wheelchair accessible entrance"
+     ]
+    }
+   ],
+   "thumbnail": "https://example.com/t.jpg"
+  },
+  {
+   "position": 15,
+   "title": "Example Coffee 15",
+   "place_id": "ChIJexample0015",
+   "data_id": "0x0:0x000f",
+   "data_cid": "1015",
+   "gps_coordinates": {
+    "latitude": 30.285,
+    "longitude": -97.755
+   },
+   "rating": 4.5,
+   "reviews": 115,
+   "type": "Coffee shop",
+   "types": [
+    "Coffee shop",
+    "Cafe"
+   ],
+   "address": "115 Example St, Austin, TX 78701",
+   "open_state": "Open \u00b7 Closes 7\u202fPM",
+   "hours": "Open \u00b7 Closes 7\u202fPM",
+   "operating_hours": {
+    "monday": "7\u202fAM\u20132\u202fPM",
+    "tuesday": "Closed"
+   },
+   "phone": "(512) 555-0015",
+   "website": "https://cafe15.example.com/",
+   "extensions": [
+    {
+     "accessibility": [
+      "Wheelchair accessible entrance"
+     ]
+    }
+   ],
+   "thumbnail": "https://example.com/t.jpg"
+  },
+  {
+   "position": 16,
+   "title": "Example Coffee 16",
+   "place_id": "ChIJexample0016",
+   "data_id": "0x0:0x0010",
+   "data_cid": "1016",
+   "gps_coordinates": {
+    "latitude": 30.285999999999998,
+    "longitude": -97.756
+   },
+   "rating": 4.5,
+   "reviews": 116,
+   "type": "Coffee shop",
+   "types": [
+    "Coffee shop",
+    "Cafe"
+   ],
+   "address": "116 Example St, Austin, TX 78701",
+   "open_state": "Open \u00b7 Closes 7\u202fPM",
+   "hours": "Open \u00b7 Closes 7\u202fPM",
+   "operating_hours": {
+    "monday": "7\u202fAM\u20132\u202fPM",
+    "tuesday": "Closed"
+   },
+   "phone": "(512) 555-0016",
+   "website": "https://cafe16.example.com/",
+   "extensions": [
+    {
+     "accessibility": [
+      "Wheelchair accessible entrance"
+     ]
+    }
+   ],
+   "thumbnail": "https://example.com/t.jpg"
+  },
+  {
+   "position": 17,
+   "title": "Example Coffee 17",
+   "place_id": "ChIJexample0017",
+   "data_id": "0x0:0x0011",
+   "data_cid": "1017",
+   "gps_coordinates": {
+    "latitude": 30.287,
+    "longitude": -97.75699999999999
+   },
+   "rating": 4.5,
+   "reviews": 117,
+   "type": "Coffee shop",
+   "types": [
+    "Coffee shop",
+    "Cafe"
+   ],
+   "address": "117 Example St, Austin, TX 78701",
+   "open_state": "Open \u00b7 Closes 7\u202fPM",
+   "hours": "Open \u00b7 Closes 7\u202fPM",
+   "operating_hours": {
+    "monday": "7\u202fAM\u20132\u202fPM",
+    "tuesday": "Closed"
+   },
+   "phone": "(512) 555-0017",
+   "website": "https://cafe17.example.com/",
+   "extensions": [
+    {
+     "accessibility": [
+      "Wheelchair accessible entrance"
+     ]
+    }
+   ],
+   "thumbnail": "https://example.com/t.jpg"
+  },
+  {
+   "position": 18,
+   "title": "Example Coffee 18",
+   "place_id": "ChIJexample0018",
+   "data_id": "0x0:0x0012",
+   "data_cid": "1018",
+   "gps_coordinates": {
+    "latitude": 30.288,
+    "longitude": -97.758
+   },
+   "rating": 4.5,
+   "reviews": 118,
+   "type": "Coffee shop",
+   "types": [
+    "Coffee shop",
+    "Cafe"
+   ],
+   "address": "118 Example St, Austin, TX 78701",
+   "open_state": "Open \u00b7 Closes 7\u202fPM",
+   "hours": "Open \u00b7 Closes 7\u202fPM",
+   "operating_hours": {
+    "monday": "7\u202fAM\u20132\u202fPM",
+    "tuesday": "Closed"
+   },
+   "phone": "(512) 555-0018",
+   "website": "https://cafe18.example.com/",
+   "extensions": [
+    {
+     "accessibility": [
+      "Wheelchair accessible entrance"
+     ]
+    }
+   ],
+   "thumbnail": "https://example.com/t.jpg"
+  },
+  {
+   "position": 19,
+   "title": "Example Coffee 19",
+   "place_id": "ChIJexample0019",
+   "data_id": "0x0:0x0013",
+   "data_cid": "1019",
+   "gps_coordinates": {
+    "latitude": 30.288999999999998,
+    "longitude": -97.759
+   },
+   "rating": 4.5,
+   "reviews": 119,
+   "type": "Coffee shop",
+   "types": [
+    "Coffee shop",
+    "Cafe"
+   ],
+   "address": "119 Example St, Austin, TX 78701",
+   "open_state": "Open \u00b7 Closes 7\u202fPM",
+   "hours": "Open \u00b7 Closes 7\u202fPM",
+   "operating_hours": {
+    "monday": "7\u202fAM\u20132\u202fPM",
+    "tuesday": "Closed"
+   },
+   "phone": "(512) 555-0019",
+   "website": "https://cafe19.example.com/",
+   "extensions": [
+    {
+     "accessibility": [
+      "Wheelchair accessible entrance"
+     ]
+    }
+   ],
+   "thumbnail": "https://example.com/t.jpg"
+  },
+  {
+   "position": 20,
+   "title": "Example Coffee 20",
+   "place_id": "ChIJexample0020",
+   "data_id": "0x0:0x0014",
+   "data_cid": "1020",
+   "gps_coordinates": {
+    "latitude": 30.29,
+    "longitude": -97.75999999999999
+   },
+   "rating": 4.5,
+   "reviews": 120,
+   "type": "Coffee shop",
+   "types": [
+    "Coffee shop",
+    "Cafe"
+   ],
+   "address": "120 Example St, Austin, TX 78701",
+   "open_state": "Open \u00b7 Closes 7\u202fPM",
+   "hours": "Open \u00b7 Closes 7\u202fPM",
+   "operating_hours": {
+    "monday": "7\u202fAM\u20132\u202fPM",
+    "tuesday": "Closed"
+   },
+   "phone": "(512) 555-0020",
+   "website": "https://cafe20.example.com/",
+   "extensions": [
+    {
+     "accessibility": [
+      "Wheelchair accessible entrance"
+     ]
+    }
+   ],
+   "thumbnail": "https://example.com/t.jpg"
+  }
+ ]
+}
