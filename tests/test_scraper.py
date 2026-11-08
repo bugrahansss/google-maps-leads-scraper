@@ -94,6 +94,15 @@ class ModelTests(unittest.TestCase):
         self.assertEqual(place.plus_code, "77FH+PW Austin, Texas")
         self.assertEqual(place.hours, "Mon: 7 AM–2 PM; Sun: 7 AM–7 PM")
         self.assertEqual(place.rating_breakdown, {"1": 2, "5": 90})
+
+    def test_place_type_as_list(self):
+        payload = load("place.json")
+        item = payload["place_results"]
+        item.pop("types")
+        item["type"] = ["Coffee shop", "Art cafe"]
+        place = parse_place(payload)
+        self.assertEqual(place.category, "Coffee shop")
+        self.assertEqual(place.categories, ["Coffee shop", "Art cafe"])
         with self.assertRaises(ValueError):
             parse_place({})
 
