@@ -108,8 +108,11 @@ class Place:
     @classmethod
     def from_api(cls, item: Dict[str, Any]) -> "Place":
         coords = item.get("gps_coordinates") or {}
-        types = [clean_text(t) for t in (item.get("types") or []) if t]
-        category = clean_text(item.get("type")) or (types[0] if types else "")
+        raw_type = item.get("type")
+        # Search results give "type" as a string plus "types"; a place lookup gives "type" as a list
+        type_list = raw_type if isinstance(raw_type, list) else []
+        types = [clean_text(t) for t in (item.get("types") or type_list) if t]
+        category = (clean_text(raw_type) if isinstance(raw_type, str) else "") or (types[0] if types else "")
         if category and category not in types:
             types.insert(0, category)
         hours = format_hours(item.get("operating_hours") or item.get("hours"))
