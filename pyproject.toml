@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "google-maps-leads-scraper"
-version = "0.1.0"
+version = "0.1.1"
 description = "Export Google Maps businesses (name, phone, website, address, rating, hours, coordinates), place details and reviews to CSV with Python and the Scrape.do Google Maps API."
 readme = "README.md"
 requires-python = ">=3.8"
